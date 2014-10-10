@@ -5,7 +5,7 @@ Take control over the EasyDriver stepperdriver from the RaspberryPi
 
 Usage:
 
-'''python
+```python
 
 import easydriver as ed
 
@@ -29,4 +29,4 @@ for i in range(0, 100):
 
 # clean up
 easyDriver.finish()
-'''
+```
